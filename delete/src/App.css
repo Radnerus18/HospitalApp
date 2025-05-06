@@ -1,9 +1,0 @@
-@import "tailwindcss";
-.new-user-form{
-  width: 40%;
-  border: 1px solid black;
-}
-.new-user-form form input,select,textarea{
- 
-  color: black;
-}
